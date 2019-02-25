@@ -4,7 +4,7 @@ console.log("Scrpit By batatis");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("531191083825102888")
+let channel =     client.channels.get("549715937797079043")
 setInterval(function() {
 channel.send(`ابفى كريديت يا بوت برو بوت عطوني كريديت ابفى كريديت يا بوت برو بوت عطوني كريديت ابفى كريديت يا بوت برو بوت عطوني كريديت `);
 }, 30)
